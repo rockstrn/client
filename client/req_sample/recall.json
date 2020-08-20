@@ -1,0 +1,20 @@
+{
+    "st": 1,
+    "user_info": {
+
+    },
+
+    "user":{
+        "qq":931521880,
+        "device_id": "xxx",
+        "device_id_md5": 100000
+    },
+    "args":{
+        "news_cnt":50,
+        "seq_no":1000000,
+        "time_out":10000,
+        "req_type":1,
+        "alg":9,
+        "degrade_level":0
+    }
+}

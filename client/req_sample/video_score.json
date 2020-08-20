@@ -1,0 +1,27 @@
+{
+  "user":{
+    "device_id":"xx",
+    "device_id_md5":0,
+    "qq":317457760,
+    "gender":1,
+    "age":35
+  },
+  "args":{
+    "req_type":0,
+    "module_exp_id":9,
+    "bucket_id":9,
+    "seqno":"111111",
+    "timeout_ms":1000,
+    "docs":[
+      {
+        "id":"1845daf2df8302bk"
+      },
+      {
+        "id":"0535da589e5980ah"
+      },
+      {
+        "id":"1585d8f59eb595ah"
+      }
+      ]
+  }
+}
